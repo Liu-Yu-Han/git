@@ -1,4 +1,8 @@
 Draw
 fuck you!!!
+<<<<<<< HEAD
 
 i dont like you
+=======
+i love you
+>>>>>>> B_draw
